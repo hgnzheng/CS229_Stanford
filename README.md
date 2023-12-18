@@ -1,8 +1,12 @@
-# CS 229 Machine Learning at Stanford University, taught by Prof. Andrew Ng.
+# CS 229 Machine Learning 
 
-[Fall 2023 Course Website]
+**Stanford University**
+
+**Instructor: Andrew Ng**
 
 [Course Website](https://cs229.stanford.edu/)
+
+[Autumn 2018 Course Website](https://cs229.stanford.edu/syllabus-autumn2018.html)
 
 I'm self-learning this class through YouTube to
 * Take a step further and explore more about machine learning.
