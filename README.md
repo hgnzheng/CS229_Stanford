@@ -1,8 +1,8 @@
 # CS 229 Machine Learning at Stanford University, taught by Prof. Andrew Ng.
 
-[Autumn 2018 Course Website](https://cs229.stanford.edu/syllabus-autumn2018.html)
+[Fall 2023 Course Website]
 
-[Stanford Online Playlist](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+[Course Website](https://cs229.stanford.edu/)
 
 I'm self-learning this class through YouTube to
 * Take a step further and explore more about machine learning.
@@ -14,3 +14,8 @@ To get a solid understanding of course material, I am also doing the following a
 * Review Linear Algebra concepts through MIT's 18.06, taught by Prof. Gilbert Strang.
 * Review Multivariable Calculus concepts through Stanford Math 51 Notes.
 * Review Probability concepts through the textbook *A First Course in Probability*.
+
+# Links
+
+* [Lecture Videos (2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [Cheatsheet Website](https://stanford.edu/~shervine/teaching/)
