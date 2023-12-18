@@ -1,4 +1,4 @@
-# CS 229 Machine Learning 
+# CS 229: Machine Learning 
 
 **Stanford University**
 
